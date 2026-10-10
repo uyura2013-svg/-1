@@ -1,2 +1,1 @@
-
-vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=tcp&headerType=none#JokerVPN-Germany
+dmxlc3M6Ly9hZDI2M2YxYy0xOTllLTRhYWYtYmYyMi1jM2FkMDQwN2QzNzdAMzEuNzcuMTQ4Ljg5OjQ1MDIxP3R5cGU9dGNwJmhlYWRlclR5cGU9bm9uZSNKb2tlclZQTi1HZXJtYW55
